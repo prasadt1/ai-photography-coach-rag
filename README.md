@@ -165,6 +165,7 @@ ai-photography-coach-rag/
 
 MIT License - feel free to use this project for learning and experimentation.
 
+
 ## 🙏 Acknowledgments
 
 - ByteByteAI for the excellent AI Engineering curriculum
@@ -173,6 +174,20 @@ MIT License - feel free to use this project for learning and experimentation.
 - FAISS for efficient vector search
 
 ---
+## 🧩 Capstone: Agentic Gemini Version
+
+This repository also contains a second implementation of the AI Photography Coach as part of the **Google AI Agents Intensive (Kaggle) capstone**.
+
+That version lives in [`agents_capstone/`](agents_capstone/) and demonstrates:
+
+- 🧠 **Gemini 2.5 Flash vision** for image‑aware composition and lighting analysis  
+- 🎯 **EXIF‑aware coaching** (focal length, aperture, shutter speed, ISO)  
+- 🤖 **Agentic architecture** (Vision agent + Chat coach + optional knowledge agent)  
+- 💬 **Interactive Streamlit UI** for back‑and‑forth coaching on a single photo  
+
+If you’re interested in the multi‑agent / Gemini version rather than the local RAG app, start here:
+
+➡️ [`agents_capstone/README.md`](agents_capstone/README.md)
 
 **Built for ByteByteAI AI Engineering Capstone - November 2025**  
 **Demonstrates:** LLM Integration • RAG Architecture • Chain-of-Thought • Hallucination Prevention
