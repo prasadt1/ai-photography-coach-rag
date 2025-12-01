@@ -1,0 +1,68 @@
+[
+  {
+    "prompt": "How can I improve the composition of this photo?",
+    "coach_response": "Here is how you can improve this photo:\n- Move your main subject towards one of the thirds instead of the exact center.\n- Check that your horizon is level; a small tilt can make landscapes feel unbalanced.\n- Use foreground elements or leading lines to guide the viewer\u2019s eye into the scene.",
+    "vision_summary": "Subject appears roughly central; try placing it on a third for stronger composition.",
+    "latency_sec": 0.006,
+    "overall_score": 0.0,
+    "llm_scores": {
+      "relevance": 0,
+      "completeness": 0,
+      "accuracy": 0,
+      "actionability": 0,
+      "explanation": "LLM scoring error: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.",
+      "raw_response": ""
+    },
+    "heuristic_scores": {
+      "length_score": 8,
+      "tech_score": 2,
+      "response_length": 290,
+      "tech_terms_found": 1
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "What camera settings should I use for a sunset shot?",
+    "coach_response": "Here is how you can improve this photo:\n- Move your main subject towards one of the thirds instead of the exact center.\n- Check that your horizon is level; a small tilt can make landscapes feel unbalanced.\n- Use foreground elements or leading lines to guide the viewer\u2019s eye into the scene.",
+    "vision_summary": "Subject appears roughly central; try placing it on a third for stronger composition.",
+    "latency_sec": 0.005,
+    "overall_score": 0.0,
+    "llm_scores": {
+      "relevance": 0,
+      "completeness": 0,
+      "accuracy": 0,
+      "actionability": 0,
+      "explanation": "LLM scoring error: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.",
+      "raw_response": ""
+    },
+    "heuristic_scores": {
+      "length_score": 8,
+      "tech_score": 2,
+      "response_length": 290,
+      "tech_terms_found": 1
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the rule of thirds and how to apply it.",
+    "coach_response": "Here is how you can improve this photo:\n- Move your main subject towards one of the thirds instead of the exact center.\n- Check that your horizon is level; a small tilt can make landscapes feel unbalanced.\n- Use foreground elements or leading lines to guide the viewer\u2019s eye into the scene.",
+    "vision_summary": "Subject appears roughly central; try placing it on a third for stronger composition.",
+    "latency_sec": 0.004,
+    "overall_score": 0.0,
+    "llm_scores": {
+      "relevance": 0,
+      "completeness": 0,
+      "accuracy": 0,
+      "actionability": 0,
+      "explanation": "LLM scoring error: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.",
+      "raw_response": ""
+    },
+    "heuristic_scores": {
+      "length_score": 8,
+      "tech_score": 2,
+      "response_length": 290,
+      "tech_terms_found": 1
+    },
+    "status": "success"
+  }
+]
